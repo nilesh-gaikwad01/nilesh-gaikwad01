@@ -13,9 +13,3 @@ Open-source projects, innovative web apps, and full-stack development challenges
 -Email:nileshngaikwad96@gmail.com 
 -LinkedIn:https://www.linkedin.com/in/gaikwad-nilesh
 -Portfolio:https://nilesh_gaikwad-portfolio.com 
-
-😄 **Pronouns:**  
-He/Him  
-
-⚡ **Fun fact:**  
-I love solving puzzles and experimenting with new tech stacks in my free time!
