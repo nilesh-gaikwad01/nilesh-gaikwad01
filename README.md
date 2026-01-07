@@ -1,14 +1,11 @@
 # Hi there, I'm Nilesh Gaikwad 👋
 
-<!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fnilesh-gaikwad01fb31c.png?alt=media)
-
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Nilesh!;A+Self+Taught+Software+Developer;Based+in+Pune%2C+Maharashtra+Area" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+;A+Self+Taught+Software+Developer;Based+in+Pune%2C+Maharashtra+Area" alt="Typing SVG"/>
     </a>
 </div>
 <br/>
