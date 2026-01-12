@@ -15,7 +15,7 @@
 - 🎓 B.E. in **Artificial Intelligence & Machine Learning**
 - ⚙️ Focused on **Backend, MERN Stack, REST APIs & System Design**
 - 🤖 Building **AI Agents, Chatbots & Automation Systems**
-- 🚀 Founder & Developer of **Illusion AI** — https://www.illusionai.in
+- 🚀 Developer at **Illusion AI** — https://www.illusionai.in
 - 🤝 Comfortable working in **Agile teams (Git, GitHub, JIRA)**
 - 🌐 Website: https://nileshgaikwad.pages.dev
 
